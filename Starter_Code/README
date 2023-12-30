@@ -1,0 +1,16 @@
+README
+This project involves a comprehensive analysis of food hygiene ratings across the UK. I will be setting up a NoSQL database, updating it with new data, and conducting exploratory analysis using Python and MongoDB.
+
+Part 1: 
+Database and Jupyter Notebook Set Up including import data from establishments.json into MongoDB.
+
+Part 2: 
+Update the Database with new restaurant data, removing all records from the Dover Local Authority and Data Type Corrections (Ensure latitude, longitude, and RatingValue are stored in correct formats)
+
+Part 3: 
+Exploratory Analysis
+Conduct a detailed analysis answering specific questions:
+Identify establishments with a hygiene score of 20.
+Find high-rated establishments in London.
+Determine the top 5 establishments with a RatingValue of 5 near "Penang Flavours".
+Analyze the number of establishments with a hygiene score of 0 in each Local Authority, focusing on the top ten.
